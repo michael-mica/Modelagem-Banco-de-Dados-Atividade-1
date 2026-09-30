@@ -6,7 +6,11 @@ Atividade-01 Modelagem banco de dados
 ### Michael, Kaik, Iago, Enzo, Vinícius, Victor, Veronica, Leo
  
 ## 2 . C a r a c t e r i z a ç ã o d a e m p r e s a 
- 
+
+### O cliente chega ao atendimento, faz o pedido, ela anota em uma comanda o item(peça), o serviço que será realizado e um prazo de entrega.
+### Dentro da empresa o item passa pelos processos oriundos do serviço, após a peça estar pronta para o cliente, ela avisa o cliente para retirar a peça.
+### Em casos específicos, pode ser realizada uma entrega!
+### O processo interno é um pouco misterioso pois ela mesma disse ter dificuldade em explicar o que acontece no interior da empresa, mas ela mesmo disse não se perder nas demandas, e erros referentes a isto serem raros. Então acredito que após o levantamento dos dados que pedimos, podemos imaginar melhor como o serviço é executado*
 ## 3 . J u s t i f i c a t i v a d a e s c o l h a 
  
 ## 4 . P r o b l e m a s i d e n t i f i c a d o s 
