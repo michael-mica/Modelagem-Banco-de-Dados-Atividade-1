@@ -6,7 +6,15 @@ Atividade-01 Modelagem banco de dados
 ### Michael, Kaik, Iago, Enzo, Vinícius, Victor, Veronica, Leo
  
 ## 2 . C a r a c t e r i z a ç ã o d a e m p r e s a 
-
+### Qual é o segmento?
+Lavanderia, lavagem geral(Atende diferentes nichos) 
+### O que ela vende ou oferece? 
+Faz o serviço de lavagem, secagem, passagem de peças
+E restaurações em casos específicos.
+### Quem são seus principais clientes? 
+Empresas e pessoas que buscam lavagens mais especializadas
+### Quais são seus principais setores? 
+Atendimento; Área para coleta; setor de lavagem; secagem; passagem
 
 ## 3 . J u s t i f i c a t i v a d a e s c o l h a 
  
