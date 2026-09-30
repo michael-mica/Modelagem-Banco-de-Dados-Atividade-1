@@ -18,6 +18,19 @@ Atividade-01 Modelagem banco de dados
 ## 5 . P r o c e s s o s d e n e g ó c i o 
  
 ## 6 . R e q u i s i t o s f u n c i o n a i s 
+### O sistema deverá cadastrar o cliente
+### O sistema deverá alterar o cadastro do cliente
+### O sistema deverá registrar o pedido
+### O sistema deverá finalizar pedido
+### O sistema deverá registrar pagamento
+### O sistema deverá controlar o inventario 
+### O sistema deverá gerenciar prazos
+### O sistema deverá gerenciar processos internos  
+### O sistema deverá traquear os pedidos no processo interno
+### O sistema deverá permitir selecionar etapas do processo para um item 
+### O sistema deverá permitir alterar etapas do processo para um item 
+### O sistema deverá cadastrar novos itens e seus serviços
+### O sistema deverá fazer a exclusão de dados do pedido em tempos
  
 ## 7 . R e q u i s i t o s n ã o f u n c i o n a i s 
  
