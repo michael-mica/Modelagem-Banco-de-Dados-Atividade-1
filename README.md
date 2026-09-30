@@ -13,6 +13,8 @@ Atividade-01 Modelagem banco de dados
 ## 4 . P r o b l e m a s i d e n t i f i c a d o s 
  
 ## 5 . P r o c e s s o s d e n e g ó c i o 
+### Cliente → Pedido → Serviços → Coleta → Pagamento
+
 ### O cliente chega ao atendimento, faz o pedido, ela anota em uma comanda o item(peça), o serviço que será realizado e um prazo de entrega.
 ### Dentro da empresa o item passa pelos processos oriundos do serviço, após a peça estar pronta para o cliente, ela avisa o cliente para retirar a peça.
 ### Em casos específicos, pode ser realizada uma entrega!
