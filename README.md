@@ -17,8 +17,21 @@ Empresas e pessoas que buscam lavagens mais especializadas
 Atendimento; Área para coleta; setor de lavagem; secagem; passagem
 
 ## 3 . J u s t i f i c a t i v a d a e s c o l h a 
+
+Problemas Analisados:
+ Os pedidos não seguem um padrão de registro, e os custos existem só na cabeça da Dona. Sem esses dados documentados, não dá para calcular prazos com precisão. falta de controle de despesas. A estratégia para levantá-los já está definida.
+
+Não existe sistema de cadastro, então clientes e pedidos ficam dispersos. A sistematização dos processos é ocasional, sem etapas fixas do pedido à entrega.
+
+É viável, começando pelo cadastro de pedidos. Ele padroniza o registro, guarda os custos e permite estimar prazos com base em dados. A implantação deve ser gradual, módulo por módulo.
  
 ## 4 . P r o b l e m a s i d e n t i f i c a d o s 
+
+Raramente. O preço vem de fatores físicos do item, fáceis de verificar. O problema é a informação oculta no meio do processo, que só a Dona conhece.
+
+Nada é digital. Todos os controles são manuais, exceto o contato com clientes, feito por celular.
+
+
  
 ## 5 . P r o c e s s o s d e n e g ó c i o 
 ### Cliente → Pedido → Serviços → Coleta → Pagamento
