@@ -74,6 +74,7 @@ Nada é digital. Todos os controles são manuais, exceto o contato com clientes,
 ## 1 5 . D i c i o n á r i o d e d a d o s c o n c e i t u a l 
  
 ##	 	1	6	.	 	D	E	R 
+![Diagrama Entidade Relacionamento](docs/images/DER.png)
  
 ## 1 7 . J u s t i f i c a t i v a s t é c n i c a s 
  
